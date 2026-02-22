@@ -1,7 +1,4 @@
-import java.util.Scanner;
-
 public class CuentaCorriente {
-    final static Scanner SC = new Scanner(System.in);
     private String nombre, apellido, dni, direccion;
     private long numcuenta;
     private double saldo;
@@ -62,4 +59,5 @@ public class CuentaCorriente {
     public void mostarDinero(){
         System.out.println("Saldo: "+this.saldo+"$");
     }
+
 }
