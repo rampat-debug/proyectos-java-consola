@@ -66,14 +66,6 @@ Este proyecto integra múltiples conceptos de POO y estructura de programas más
 
 ---
 
-## ▶️ Cómo ejecutar
-
-1. Clonar el repositorio.
-2. Abrir en un IDE (IntelliJ, Eclipse o VS Code).
-3. Ejecutar la clase `Main` del proyecto que se quiera probar.
-
----
-
 ## 📚 Estado del repositorio
 
 Proyecto académico en constante mejora.  
