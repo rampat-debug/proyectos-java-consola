@@ -29,12 +29,6 @@ Ambos juegos se ejecutan por **consola** y usan entrada por teclado (`Scanner`).
 Juego para 2 jugadores, donde deben colocar fichas `X` y `O` en un tablero 3x3.  
 Gana quien consiga 3 en línea (horizontal, vertical o diagonal).
 
-**Ejecución:**
-
-```bash
-javac TresRaya.java
-java TresRaya
-
 Cómo jugar:
 
 Turnos alternos (X empieza).
@@ -45,15 +39,10 @@ El juego valida posición y turno.
 
 Termina al ganar un jugador o al completarse los turnos.
 
-🟨 MasterMind
+## 🟨 MasterMind
 
-Descripción:
+**Descripción:**
 Juego donde debes adivinar una combinación secreta de 4 números.
-
-Ejecución:
-
-javac MasterMind.java
-java MasterMind
 
 Cómo jugar:
 
@@ -69,13 +58,6 @@ Números correctos fuera de posición.
 
 Termina al acertar la combinación o al agotarse los intentos.
 
-🛠 Requisitos
-
-Java JDK 8 o superior
-
-Terminal o IDE (Eclipse, IntelliJ, VSCode…)
-
-java -version
 📚 Conceptos aplicados
 
 Arrays y matrices
@@ -89,6 +71,7 @@ Métodos y modularización
 Lógica de juego y control de turnos
 
 Interacción por consola
+
 
 
 
