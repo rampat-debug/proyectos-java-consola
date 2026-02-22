@@ -13,8 +13,7 @@ A través de este proyecto se trabajaron los siguientes conceptos:
 - Encapsulamiento (clases `Contacto` y `Agenda`)  
 - Arrays dinámicos  
 - Implementación de `Comparable` para ordenar contactos  
-- Menú interactivo por consola  
-- Métodos CRUD: Crear, Leer, Actualizar, Borrar  
+- Menú interactivo por consola
 - Lógica de búsqueda y filtrado  
 
 ---
@@ -36,28 +35,3 @@ A través de este proyecto se trabajaron los siguientes conceptos:
 - Arrays  
 - Interfaces (`Comparable`)  
 - Entrada y salida por consola (`Scanner`)  
-
----
-
-## ▶️ Cómo ejecutar
-
-1. Clonar el repositorio  
-2. Abrir el proyecto en tu IDE favorito (IntelliJ, Eclipse o VS Code)  
-3. Ejecutar la clase `App.java`  
-4. Seguir las instrucciones del menú por consola  
-
----
-
-## 📚 Estado del proyecto
-
-Proyecto académico funcional.  
-Se pueden agregar mejoras futuras como validación más robusta de la entrada de usuario o almacenamiento persistente en archivos.
-
----
-
-## 🚀 Próximos pasos
-
-- Añadir persistencia usando archivos o bases de datos  
-- Mejorar validaciones y manejo de errores  
-- Separar entrada/salida de la lógica de negocio  
-- Implementar interfaz gráfica en un futuro
