@@ -1,8 +1,5 @@
 # 🎮 Juegos en Java: Tres en Raya & MasterMind
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Consola](https://img.shields.io/badge/Plataforma-Consola-blue?style=for-the-badge)
-
 Este proyecto contiene dos juegos clásicos programados en Java:
 
 - 🟦 **Tres en Raya**
@@ -89,3 +86,4 @@ Métodos y modularización
 Lógica de juego y control de turnos
 
 Interacción por consola
+
