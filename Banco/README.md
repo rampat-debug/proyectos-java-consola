@@ -1,18 +1,37 @@
-## Getting Started
+# 🏦 Sistema Bancario en Consola – Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto académico desarrollado en primer año de Desarrollo Web.  
+Simula un sistema bancario básico donde los usuarios pueden iniciar sesión, consultar y modificar su saldo y datos personales mediante un menú interactivo por consola.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivos de aprendizaje
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este proyecto permite practicar:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Programación Orientada a Objetos (POO)  
+- Encapsulamiento y uso de getters/setters  
+- Métodos con lógica de negocio (`ingresarDinero`, `sacarDinero`)  
+- Manejo de arrays para almacenar múltiples cuentas  
+- Menú interactivo en consola con `Scanner`  
+- Validación básica de entrada de usuario  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 📂 Funcionalidades
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Inicio de sesión mediante DNI  
+- Consultar saldo de la cuenta  
+- Ingresar dinero  
+- Retirar dinero con validación de saldo disponible  
+- Modificar datos personales (nombre, apellido, DNI, dirección)  
+- Salir del sistema  
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Java  
+- Programación Orientada a Objetos  
+- Arrays  
+- Entrada y salida por consola (`Scanner`)  
