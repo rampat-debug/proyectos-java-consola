@@ -12,7 +12,7 @@ Ambos juegos se ejecutan por **consola** y usan entrada por teclado (`Scanner`).
 ## 📁 Estructura del proyecto
 
 
-/Proyecto
+/src
 ├── TresRaya.java
 ├── MasterMind.java
 └── README.md
@@ -86,4 +86,5 @@ Métodos y modularización
 Lógica de juego y control de turnos
 
 Interacción por consola
+
 
