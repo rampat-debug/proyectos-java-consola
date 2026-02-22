@@ -29,7 +29,7 @@ Ambos juegos se ejecutan por **consola** y usan entrada por teclado (`Scanner`).
 Juego para 2 jugadores, donde deben colocar fichas `X` y `O` en un tablero 3x3.  
 Gana quien consiga 3 en línea (horizontal, vertical o diagonal).
 
-Cómo jugar:
+**Cómo jugar:**
 
 Turnos alternos (X empieza).
 
@@ -44,7 +44,7 @@ Termina al ganar un jugador o al completarse los turnos.
 **Descripción:**
 Juego donde debes adivinar una combinación secreta de 4 números.
 
-Cómo jugar:
+**Cómo jugar:**
 
 Elegir número de opciones posibles y cantidad de intentos.
 
@@ -71,6 +71,7 @@ Métodos y modularización
 Lógica de juego y control de turnos
 
 Interacción por consola
+
 
 
 
