@@ -58,7 +58,7 @@ Números correctos fuera de posición.
 
 Termina al acertar la combinación o al agotarse los intentos.
 
-📚 Conceptos aplicados
+## 📚 Conceptos aplicados
 
 Arrays y matrices
 
@@ -71,6 +71,7 @@ Métodos y modularización
 Lógica de juego y control de turnos
 
 Interacción por consola
+
 
 
 
