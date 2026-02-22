@@ -20,61 +20,44 @@ Ambos juegos se ejecutan por **consola** y usan entrada por teclado (`Scanner`).
 
 └── README.md
 
-
 ---
 
 ## 🟦 Tres en Raya
 
 **Descripción:**  
-Juego para 2 jugadores, donde deben colocar fichas `X` y `O` en un tablero 3x3.  
-Gana quien consiga 3 en línea (horizontal, vertical o diagonal).
+Juego para **2 jugadores**, donde deben colocar fichas `X` y `O` en un tablero 3x3.  
+Gana el jugador que consiga **3 en línea** (horizontal, vertical o diagonal).
 
 **Cómo jugar:**
 
-Turnos alternos (X empieza).
+1. Los jugadores se turnan (X comienza).
+2. Introducir **fila (1–3)** y **columna (1–3)** para colocar la ficha.
+3. El juego valida que la posición esté disponible.
+4. Termina cuando un jugador gana o se llenan todas las casillas.
 
-Introducir fila (1–3) y columna (1–3).
-
-El juego valida posición y turno.
-
-Termina al ganar un jugador o al completarse los turnos.
+---
 
 ## 🟨 MasterMind
 
-**Descripción:**
-Juego donde debes adivinar una combinación secreta de 4 números.
+**Descripción:**  
+Juego donde debes adivinar una **combinación secreta de 4 números**.
 
 **Cómo jugar:**
 
-Elegir número de opciones posibles y cantidad de intentos.
+1. Configura el número de **opciones posibles** y la **cantidad de intentos**.
+2. Introduce una combinación de **4 números** en cada turno.
+3. El juego indica:
+   - Números en **posición correcta**
+   - Números correctos **fuera de posición**
+4. Termina cuando aciertas la combinación o se agotan los intentos.
 
-Introducir una combinación de 4 números por turno.
-
-El juego indica:
-
-Números en posición correcta.
-
-Números correctos fuera de posición.
-
-Termina al acertar la combinación o al agotarse los intentos.
+---
 
 ## 📚 Conceptos aplicados
 
-Arrays y matrices
-
-Bucles for y while
-
-Condicionales y validación de datos
-
-Métodos y modularización
-
-Lógica de juego y control de turnos
-
-Interacción por consola
-
-
-
-
-
-
-
+- Arrays y matrices
+- Bucles `for` y `while`
+- Condicionales y validación de datos
+- Métodos y modularización
+- Lógica de juego y control de turnos
+- Interacción por consola
