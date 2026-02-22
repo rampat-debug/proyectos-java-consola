@@ -1,18 +1,36 @@
-## Getting Started
+# ✊ Piedra, Papel o Tijera – Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto académico desarrollado en primer año de Desarrollo Web.  
+Simula un juego de Piedra, Papel o Tijera en consola contra un oponente controlado por la computadora (BOT). El primer jugador que gane 3 rondas es el vencedor.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivos de aprendizaje
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este proyecto permite practicar:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Programación Orientada a Objetos (POO)  
+- Uso de enums (`Jugada`) para representar opciones  
+- Métodos y encapsulamiento en clases (`Jugador`)  
+- Generación aleatoria para simular al BOT  
+- Lógica de juego y control de flujo  
+- Entrada y salida por consola (`Scanner`)  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 📂 Funcionalidades
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Elegir jugada: Piedra, Papel o Tijera  
+- BOT selecciona jugada aleatoria  
+- Determinar el ganador de cada ronda  
+- Mostrar puntuación actual de cada jugador  
+- Declarar ganador final cuando uno alcanza 3 victorias  
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Java  
+- Programación Orientada a Objetos  
+- Enums (`Jugada`)  
+- Entrada y salida por consola (`Scanner`)  
