@@ -1,4 +1,4 @@
-🎬 Sistema de Cine en Consola – Java  
+#🎬 Sistema de Cine en Consola – Java  
 Proyecto académico desarrollado para practicar gestión de datos y Programación Orientada a Objetos.  
 Simula el funcionamiento básico de un cine donde se pueden gestionar películas, sesiones y compra de entradas.
 
